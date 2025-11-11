@@ -18,14 +18,14 @@
 
   "nav_button": {
     "enable": true,
-    "label": "Get Started",
+    "label": "Comienza Aquí",
     "link": "/contact"
   },
 
   "params": {
     "contact_form_action": "#",
     "footer_content": "",
-    "copyright": "Designed and Developed By [Themefisher](https://themefisher.com/)"
+    "copyright": "Re-Designed By [Sillytsud]"
   },
 
   "metadata": {
