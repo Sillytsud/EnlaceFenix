@@ -1,74 +1,66 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
-      "url": "/blog"
-    },
-    {
-      "name": "Pricing",
+      "name": "Precios",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Contacto",
       "url": "/contact"
     },
     {
       "name": "FAQ",
       "url": "/faq"
-    },
-    {
-      "name": "Elements",
-      "url": "/elements"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Enlace Fenix",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         },
         {
-          "text": "Quick Start",
+          "text": "Guía Rápida",
           "url": "#"
         }
       ]
     },
     {
-      "name": "Product",
+      "name": "Producto",
       "menu": [
         {
-          "text": "Features",
+          "text": "Características",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Platforma",
           "url": "#"
         },
         {
-          "text": "Pricing",
+          "text": "Precios",
           "url": "/pricing"
         }
       ]
     },
     {
-      "name": "Support",
+      "name": "Soporte",
       "menu": [
         {
           "text": "FAQ",
           "url": "/faq"
         },
         {
-          "text": "Privacy Policy",
+          "text": "Política de Privacidad",
           "url": "/privacy-policy"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Términos y Condiciones",
           "url": "/terms-conditions"
         }
       ]

@@ -1,93 +1,96 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
+  title: Digitaliza tu gestión con Enlace Fénix
+  content: Enlace Fénix es el software que impulsa la transformación digital de tu fundación. Administra proyectos, donaciones, voluntarios y procesos internos desde un solo lugar, de forma ágil y segura.
   image: /images/banner-art.png
   button:
     enable: true
-    label: "Contact Us"
+    label: "Conocer más"
     link: "/contact"
 
 # feature
 feature:
-  title: Something You Need To Know
+  title: Lo que hace único a Enlace Fénix
   features:
-    - name: "Clean Code"
+    - name: "Gestión Inteligente"
       icon: "/images/code.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Object Oriented"
+      content: "Centraliza toda la información de tu fundación con una interfaz moderna y fácil de usar."
+    - name: "Automatización de Procesos"
       icon: "/images/oop.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "24h Service"
+      content: "Digitaliza tareas repetitivas y reduce el tiempo administrativo al mínimo."
+    - name: "Soporte Personalizado"
       icon: "/images/user-clock.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Value for Money"
+      content: "Nuestro equipo te acompaña para adaptar el sistema a las necesidades de tu organización."
+    - name: "Accesible y Escalable"
       icon: "/images/love.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Faster Response"
+      content: "Diseñado para crecer contigo, desde pequeños proyectos hasta redes de fundaciones."
+    - name: "Rendimiento y Seguridad"
       icon: "/images/speedometer.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-    - name: "Cloud Support"
+      content: "Protege tus datos con tecnología confiable y un entorno optimizado para el rendimiento."
+    - name: "Gestión en la Nube"
       icon: "/images/cloud.svg"
-      content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content: "Accede a tu información desde cualquier lugar, sin complicaciones ni instalaciones."
+
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Tu fundación, completamente digital"
+    content: "Enlace Fénix convierte la gestión manual en procesos digitales automatizados. Controla beneficiarios, programas, voluntarios y donaciones con reportes claros y actualizados en tiempo real."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Descubrir más
       link: /contact
 
-  - title: "It is a privately owned Information and cyber security company"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Seguridad y transparencia en cada dato"
+    content: "Cada módulo está diseñado para garantizar la integridad de la información y facilitar auditorías internas. Tus datos siempre protegidos bajo altos estándares de seguridad."
     images:
       - "/images/service-slide-1.png"
     button:
       enable: true
-      label: Check it out
+      label: Descubrir más
       link: /contact
 
-  - title: "It’s a team of experienced and skilled people with distributions"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
-    images:
-      - "/images/service-slide-1.png"
-      - "/images/service-slide-2.png"
-      - "/images/service-slide-3.png"
-    button:
-      enable: true
-      label: Check it out
-      link: /contact
-
-  - title: "A company standing different from others"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Diseñado para equipos reales"
+    content: "Crea usuarios, asigna roles y trabaja en conjunto sin perder control. Ideal para equipos administrativos, coordinadores y voluntarios que necesitan trabajar sincronizados."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
+      label: Descubrir más
       link: /contact
+
+  - title: "Innovación con propósito social"
+    content: "Enlace Fénix no es solo un software, es una herramienta para potenciar el impacto social y facilitar la conexión entre personas, proyectos y comunidades."
+    images:
+      - "/images/service-slide-1.png"
+      - "/images/service-slide-2.png"
+      - "/images/service-slide-3.png"
+    button:
+      enable: true
+      label: Descubrir más
+      link: /contact
+
 
 # workflow
 workflow:
-  title: "Experience the best workflow with us"
+  title: "Un flujo de trabajo pensado para fundaciones"
   image: "/images/banner.png"
-  description: ""
+  description: "Desde la planificación hasta la rendición de cuentas, Enlace Fénix integra todas las etapas de gestión para que tu equipo trabaje con orden, eficiencia y claridad"
+
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: ¿Listo para transformar tu gestión?
+  content: Enlace Fénix te ayuda a llevar tu fundación al siguiente nivel con herramientas digitales que simplifican, organizan y conectan.
   image: "/images/cta.png"
   button:
     enable: true
-    label: "Contact Us"
+    label: "Solicitar una demo"
     link: "/contact"
 ---
